@@ -1,4 +1,7 @@
-Code for running the different methods mentioned in the paper in simulation.
+Code and data for the paper:
+Design a Win-Win Strategy That Is Fair to Both Service Providers and Tasks
+When Rejection is Not an Option. 
+(Accepted for publication at IJCAI 2024)
 
 Requirements:
 Matlab: https://www.mathworks.com/products/matlab.html
